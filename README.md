@@ -53,9 +53,10 @@ QR_Decomposition(a)
 
 ## Output
 ```
-![215449266-3766da13-e376-4d97-9bc3-a101bcda30fd](https://user-images.githubusercontent.com/118660461/215453760-67908824-e451-414a-94e0-90665f237188.png)
 
-```
+
+```![WhatsApp Image 2023-01-30 at 16 10 50](https://user-images.githubusercontent.com/118660461/215455005-cf5d6035-2f71-462f-bc18-4f8ed1725fcf.jpg)
+
 
 ## Result
 Thus the QR decomposition algorithm using the Gram-Schmidt process is written and verified the result.
